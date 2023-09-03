@@ -1,0 +1,15 @@
+{
+  "name": "io.livekit.unity",
+  "version": "1.5.0",
+  "displayName": "LiveKit Track Processors WebGL SDK",
+  "description": "LiveKit Track Processors for WebGL",
+  "unity": "2021.3",
+  "author": {
+    "name": "Mohelm97",
+    "email": "mohelm97@gmail.com"
+  },
+  "type": "library",
+  "dependencies": {
+    "io.livekit.unity": "https://github.com/livekit/client-sdk-unity-web.git"
+  }
+}
