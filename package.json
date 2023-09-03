@@ -1,5 +1,5 @@
 {
-  "name": "io.livekit.unity",
+  "name": "io.livekittrackprocessors.unity",
   "version": "1.5.0",
   "displayName": "LiveKit Track Processors WebGL SDK",
   "description": "LiveKit Track Processors for WebGL",
