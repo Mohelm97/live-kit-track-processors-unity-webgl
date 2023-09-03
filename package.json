@@ -10,6 +10,6 @@
   },
   "type": "library",
   "dependencies": {
-    "io.livekit.unity": "https://github.com/livekit/client-sdk-unity-web.git"
+    "io.livekit.unity": "git://github.com/livekit/client-sdk-unity-web.git"
   }
 }
