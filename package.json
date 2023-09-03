@@ -8,8 +8,5 @@
     "name": "Mohelm97",
     "email": "mohelm97@gmail.com"
   },
-  "type": "library",
-  "dependencies": {
-    "io.livekit.unity": "git://github.com/livekit/client-sdk-unity-web.git"
-  }
+  "type": "library"
 }
