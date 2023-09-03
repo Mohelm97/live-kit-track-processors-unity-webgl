@@ -1,7 +1,9 @@
 {
     "name": "LiveKitTrackProcessors",
     "rootNamespace": "LiveKitTrackProcessors",
-    "references": [],
+    "references": [
+        "GUID:ae3e71e072a29bd4fb43afb30ec62dd1"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": true,
