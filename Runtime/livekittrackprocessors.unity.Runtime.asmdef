@@ -4,7 +4,10 @@
     "references": [
         "GUID:ae3e71e072a29bd4fb43afb30ec62dd1"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor",
+        "WebGL"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": true,
     "overrideReferences": false,
